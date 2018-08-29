@@ -77,3 +77,9 @@ img{
   font-size: 30px;
   font-style: italic;
 }
+
+p.important {
+  color: #e16666;
+  font-style:italic;
+  font-weight:bold;
+}
