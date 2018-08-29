@@ -71,3 +71,9 @@ img{
   height:400px;
   width:600px;
 }
+
+.pumpstyle {
+  color: brown;
+  font-size: 30px;
+  font-style: italic;
+}
